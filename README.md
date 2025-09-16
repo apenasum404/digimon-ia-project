@@ -1,2 +1,2 @@
-# digimon-ia-project
-Dando vida aos digimons para o mundo todo
+# Digimundo / digimon-ia-project
+Dando vida aos Digimons para o mundo todo
